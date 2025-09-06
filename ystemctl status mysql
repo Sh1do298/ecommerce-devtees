@@ -1,0 +1,13 @@
+[0;1;32m●[0m mysql.service - MySQL Community Server
+     Loaded: loaded (]8;;file://sidnei-550XCJ-550XCR/usr/lib/systemd/system/mysql.service/usr/lib/systemd/system/mysql.service]8;;; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: [0;1;32mactive (running)[0m since Sat 2025-09-06 00:41:19 -03; 53min ago
+   Main PID: 9535 (mysqld)
+     Status: "[0;1;36mServer is operational[0m"
+      Tasks: 38 (limit: 9134)
+     Memory: 365.7M (peak: 378.5M)
+        CPU: 39.025s
+     CGroup: /system.slice/mysql.service
+             └─[0;38;5;245m9535 /usr/sbin/mysqld[0m
+
+set 06 00:41:15 sidnei-550XCJ-550XCR systemd[1]: Starting mysql.service - MySQL Community Server...
+set 06 00:41:19 sidnei-550XCJ-550XCR systemd[1]: Started mysql.service - MySQL Community Server.
